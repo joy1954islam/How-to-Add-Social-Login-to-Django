@@ -1,0 +1,10 @@
+
+{% block content %}
+  <h2>My Social Login Homepage</h2>
+  <p>Hi {{ user.username }}!</p>
+
+<div class="form-group">
+                        <a href="{% url 'logout' %}"><h2>Log Out</h2></a>
+</div>
+
+{% endblock content %}
