@@ -1,10 +1,13 @@
-
+{% extends 'Social_Apps/Navbar.html' %}
 {% block content %}
+<div>
   <h2>My Social Login Homepage</h2>
-  <p>Hi {{ user.username }}!</p>
+    <hr>
+  <h2>Username : {{ user.username }}</h2>
+  <p>Email : {{ user.email }}</p>
+  <p>First Name : {{ user.first_name }}</p>
+  <p>Last Name : {{ user.last_name }}</p>
 
-<div class="form-group">
-                        <a href="{% url 'logout' %}"><h2>Log Out</h2></a>
 </div>
-
 {% endblock content %}
+
