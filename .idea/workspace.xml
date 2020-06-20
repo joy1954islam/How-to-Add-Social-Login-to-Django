@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0511ff7-5cc2-4891-8792-4ab878104049" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django_Social_Login/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django_Social_Login/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django_Social_Login/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django_Social_Login/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Social_Apps/static/Social_Apps/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Social_Apps/templates/Social_Apps/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Social_Apps/templates/Social_Apps/Home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Social_Apps/templates/Social_Apps/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/Social_Apps/templates/Social_Apps/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Social_Apps/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Social_Apps/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/Base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/Base.html" afterDir="false" />
-    </list>
+    <list default="true" id="b0511ff7-5cc2-4891-8792-4ab878104049" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +10,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Social_Apps/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
@@ -30,6 +19,13 @@
                 <element signature="e#0#57#0" expanded="true" />
               </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/Base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-469" />
           </provider>
         </entry>
       </file>
@@ -100,11 +96,6 @@
             <path>
               <item name="How-to-Add-Social-Login-to-Django" type="b2602c69:ProjectViewProjectNode" />
               <item name="How-to-Add-Social-Login-to-Django" type="462c0819:PsiDirectoryNode" />
-              <item name="Social_Apps" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="How-to-Add-Social-Login-to-Django" type="b2602c69:ProjectViewProjectNode" />
-              <item name="How-to-Add-Social-Login-to-Django" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -114,6 +105,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -149,6 +141,14 @@
       <option name="presentableId" value="Default" />
       <updated>1592531308284</updated>
     </task>
+    <task id="LOCAL-00001" summary="Django Social Login">
+      <created>1592624646702</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592624646702</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -164,7 +164,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32936078" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
@@ -173,6 +173,10 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Django Social Login" />
+    <option name="LAST_COMMIT_MESSAGE" value="Django Social Login" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/static/Django_Social_Login/css/BaseStyle.css" />
     <entry file="file://$PROJECT_DIR$/Social_Apps/static/Social_Apps/BaseStyle.css" />
@@ -180,7 +184,6 @@
     <entry file="file://$PROJECT_DIR$/Django_Social_Login/urls.py" />
     <entry file="file://$PROJECT_DIR$/Django_Social_Login/settings.py" />
     <entry file="file://$PROJECT_DIR$/Social_Apps/templates/Social_Apps/login.html" />
-    <entry file="file://$PROJECT_DIR$/templates/Base.html" />
     <entry file="file://$PROJECT_DIR$/Social_Apps/templates/Social_Apps/logout.html" />
     <entry file="file://$PROJECT_DIR$/Social_Apps/templates/Social_Apps/Home.html" />
     <entry file="file://$PROJECT_DIR$/Social_Apps/views.py">
@@ -191,6 +194,11 @@
             <element signature="e#0#57#0" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-469" />
       </provider>
     </entry>
   </component>
